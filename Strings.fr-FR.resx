@@ -426,13 +426,13 @@ Free Trial available:
 • No credit card required.</value>
   </data>
   <data name="NagScreen_Button_SignIn" xml:space="preserve">
-    <value>Sign in</value>
+    <value>Se connecter</value>
   </data>
   <data name="NagScreen_Button_EnterCode" xml:space="preserve">
-    <value>Enter code</value>
+    <value>Entrer le code</value>
   </data>
   <data name="NagScreen_Question" xml:space="preserve">
-    <value>Would you like to activate now?</value>
+    <value>Souhaitez-vous activer maintenant?</value>
   </data>
   <data name="Toolbar_Selection_Tooltip" xml:space="preserve">
     <value>Enable to select elements in the app.</value>
@@ -474,37 +474,37 @@ Free Trial available:
     <value>trial days left</value>
   </data>
   <data name="Auth_Text_LicenseExpired1" xml:space="preserve">
-    <value>Your license has expired. Please </value>
+    <value>Votre licence a expirer?. S'il vous plait </value>
   </data>
   <data name="Auth_Text_LicenseExpired2" xml:space="preserve">
-    <value>sign in</value>
+    <value>se connecter</value>
   </data>
   <data name="Auth_Text_LicenseExpired3" xml:space="preserve">
-    <value> to reactivate.</value>
+    <value> pour réactiver.</value>
   </data>
   <data name="Auth_Text_SignIn1" xml:space="preserve">
-    <value>Please </value>
+    <value>S'il vous plait </value>
   </data>
   <data name="Auth_Text_SignIn2" xml:space="preserve">
-    <value>sign in</value>
+    <value>se connecter</value>
   </data>
   <data name="Auth_Text_SignIn3" xml:space="preserve">
     <value> to activate fuse X</value>
   </data>
   <data name="About_Title" xml:space="preserve">
-    <value>About fuse X</value>
+    <value>A propos de fuse X</value>
   </data>
   <data name="About_Menu" xml:space="preserve">
-    <value>About</value>
+    <value>A Propos</value>
   </data>
   <data name="About_RegisteredTo" xml:space="preserve">
     <value>Registered to</value>
   </data>
   <data name="About_NotRegistered" xml:space="preserve">
-    <value>Not registered</value>
+    <value>Pas enregistrer</value>
   </data>
   <data name="About_Company" xml:space="preserve">
-    <value>Company: </value>
+    <value>Compagnie: </value>
   </data>
   <data name="About_License" xml:space="preserve">
     <value>License: </value>
@@ -519,21 +519,21 @@ Free Trial available:
     <value>Authority: </value>
   </data>
   <data name="About_MoreInfo1" xml:space="preserve">
-    <value>For more information visit our </value>
+    <value>Pour plus d'information visiter notre </value>
   </data>
   <data name="About_MoreInfo2" xml:space="preserve">
-    <value>website</value>
+    <value>site web</value>
   </data>
   <data name="Activate_Title" xml:space="preserve">
-    <value>Enter activation code</value>
+    <value>Entrer le code d'activation</value>
   </data>
   <data name="Activate_Button" xml:space="preserve">
-    <value>Activate fuse X</value>
+    <value>Activer fuse X</value>
   </data>
   <data name="Activate_FeedbackEmpty" xml:space="preserve">
-    <value>Please enter your activation code.</value>
+    <value>Merci de saisir le code d'activation.</value>
   </data>
   <data name="Activate_FeedbackInvalid" xml:space="preserve">
-    <value>This activation code is not valid.</value>
+    <value>Ce code d'activation est invalide.</value>
   </data>
 </root>
