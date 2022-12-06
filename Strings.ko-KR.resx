@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -165,6 +165,21 @@
   <data name="Dashboard_Recent_Projects" xml:space="preserve">
     <value>최근 프로젝트</value>
   </data>
+  <data name="Dashboard_LastOpened" xml:space="preserve">
+    <value>마지막으로 열림</value>
+  </data>
+  <data name="Dashboard_Location" xml:space="preserve">
+    <value>위치</value>
+  </data>
+  <data name="Dashboard_Description" xml:space="preserve">
+    <value>설명</value>
+  </data>
+  <data name="Dashboard_New_Prefix" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="Dashboard_Open_Prefix" xml:space="preserve">
+    <value>Open</value>
+  </data>
   <data name="MainMenu_Edit" xml:space="preserve">
     <value>편집</value>
   </data>
@@ -245,6 +260,12 @@
   </data>
   <data name="SubMenu_File_Open" xml:space="preserve">
     <value>프로젝트 열기</value>
+  </data>
+  <data name="SubMenu_File_Quit" xml:space="preserve">
+    <value>그만두다</value>
+  </data>
+  <data name="SubMenu_File_Exit" xml:space="preserve">
+    <value>출구</value>
   </data>
   <data name="SubMenu_Help_Community" xml:space="preserve">
     <value>커뮤니티</value>
@@ -360,6 +381,15 @@
   <data name="SubMenu_Window_KeepWindowOnTop" xml:space="preserve">
     <value>화면최상위유지</value>
   </data>
+  <data name="SubMenu_Window_Language" xml:space="preserve">
+    <value>언어</value>
+  </data>
+  <data name="SubMenu_Window_LightTheme" xml:space="preserve">
+    <value>밝은 테마</value>
+  </data>
+  <data name="SubMenu_Window_DarkTheme" xml:space="preserve">
+    <value>어두운 테마</value>
+  </data>
   <data name="Button_Ok" xml:space="preserve">
     <value>확인</value>
   </data>
@@ -403,15 +433,12 @@
     <value>문제점</value>
   </data>
   <data name="Label_MacOnly" xml:space="preserve">
-    <value>Mac only</value>
+    <value>Mac 만</value>
   </data>
-  <data name="LicenseUpdated_Text" xml:space="preserve">
-    <value>라이센스가 업데이트되었습니다.
+  <data name="LanguageUpdated_Text" xml:space="preserve">
+    <value>언어 기본 설정이 업데이트되었습니다.
 
-다음에 프로젝트를 열면 새 라이센스가 완전히 적용됩니다.</value>
-  </data>
-  <data name="LicenseUpdated_Question" xml:space="preserve">
-    <value>지금 fuse X를 재시작하시겠습니까?</value>
+새 언어는 다음에 fuse X를 시작할 때 완전히 적용됩니다.</value>
   </data>
   <data name="NagScreen_Caption" xml:space="preserve">
     <value>등록되지 않은 프로그램입니다.</value>
@@ -426,7 +453,7 @@
 • 신용 카드가 필요하지 않습니다.</value>
   </data>
   <data name="NagScreen_Button_SignIn" xml:space="preserve">
-    <value>Sign in</value>
+    <value>로그인</value>
   </data>
   <data name="NagScreen_Button_EnterCode" xml:space="preserve">
     <value>코드 입력</value>
@@ -468,7 +495,7 @@
     <value />
   </data>
   <data name="Auth_Text_TrialDayLeft" xml:space="preserve">
-    <value>trial day left</value>
+    <value>일 남았습니다.</value>
   </data>
   <data name="Auth_Text_TrialDaysLeft" xml:space="preserve">
     <value>일 남았습니다.</value>
@@ -483,13 +510,13 @@
     <value>재활성화</value>
   </data>
   <data name="Auth_Text_SignIn1" xml:space="preserve">
-    <value>Please </value>
+    <value>fuse X 를 활성화하려면 </value>
   </data>
   <data name="Auth_Text_SignIn2" xml:space="preserve">
-    <value>sign in</value>
+    <value>로그인</value>
   </data>
   <data name="Auth_Text_SignIn3" xml:space="preserve">
-    <value> to activate fuse X</value>
+    <value>하세요.</value>
   </data>
   <data name="About_Title" xml:space="preserve">
     <value>fuse X 정보</value>

@@ -165,6 +165,21 @@
   <data name="Dashboard_Recent_Projects" xml:space="preserve">
     <value>Recent Projects</value>
   </data>
+  <data name="Dashboard_LastOpened" xml:space="preserve">
+    <value>Last opened</value>
+  </data>
+  <data name="Dashboard_Location" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="Dashboard_Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="Dashboard_New_Prefix" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="Dashboard_Open_Prefix" xml:space="preserve">
+    <value>Open</value>
+  </data>
   <data name="MainMenu_Edit" xml:space="preserve">
     <value>Edit</value>
   </data>
@@ -245,6 +260,12 @@
   </data>
   <data name="SubMenu_File_Open" xml:space="preserve">
     <value>Open...</value>
+  </data>
+  <data name="SubMenu_File_Quit" xml:space="preserve">
+    <value>Quit</value>
+  </data>
+  <data name="SubMenu_File_Exit" xml:space="preserve">
+    <value>Exit</value>
   </data>
   <data name="SubMenu_Help_Community" xml:space="preserve">
     <value>Community</value>
@@ -360,6 +381,15 @@
   <data name="SubMenu_Window_KeepWindowOnTop" xml:space="preserve">
     <value>Keep window on top</value>
   </data>
+  <data name="SubMenu_Window_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="SubMenu_Window_LightTheme" xml:space="preserve">
+    <value>Light theme</value>
+  </data>
+  <data name="SubMenu_Window_DarkTheme" xml:space="preserve">
+    <value>Dark theme</value>
+  </data>
   <data name="Button_Ok" xml:space="preserve">
     <value>OK</value>
   </data>
@@ -405,13 +435,10 @@
   <data name="Label_MacOnly" xml:space="preserve">
     <value>Mac only</value>
   </data>
-  <data name="LicenseUpdated_Text" xml:space="preserve">
-    <value>Your license was updated.
+  <data name="LanguageUpdated_Text" xml:space="preserve">
+    <value>Your language preference was updated.
 
-The new license will come into full effect next time you open a project.</value>
-  </data>
-  <data name="LicenseUpdated_Question" xml:space="preserve">
-    <value>Do you want to restart fuse X now?</value>
+The new language will come into full effect next time you start fuse X.</value>
   </data>
   <data name="NagScreen_Caption" xml:space="preserve">
     <value>This is an unregistered copy</value>

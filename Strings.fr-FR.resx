@@ -136,7 +136,7 @@
     <value>Community</value>
   </data>
   <data name="Dashboard_Community_Text1" xml:space="preserve">
-    <value>Made something cool? Join a thriving</value>
+    <value>Vous avez fait quelque chose de cool? Joignez-vous à un</value>
   </data>
   <data name="Dashboard_Community_Text2" xml:space="preserve">
     <value>communauté enthousiaste de Fuse</value>
@@ -154,7 +154,7 @@
     <value>Apprendre</value>
   </data>
   <data name="Dashboard_Learn_Text1" xml:space="preserve">
-    <value>Nouveau sur Fuse ? Découvrez notre manuel,</value>
+    <value>Nouveau sur Fuse ? Découvrez notre manuel,</value>
   </data>
   <data name="Dashboard_Learn_Text2" xml:space="preserve">
     <value>Tutoriels et Exemples.</value>
@@ -164,6 +164,21 @@
   </data>
   <data name="Dashboard_Recent_Projects" xml:space="preserve">
     <value>Projets Récent</value>
+  </data>
+  <data name="Dashboard_LastOpened" xml:space="preserve">
+    <value>Dernière ouverture</value>
+  </data>
+  <data name="Dashboard_Location" xml:space="preserve">
+    <value>Emplacement</value>
+  </data>
+  <data name="Dashboard_Description" xml:space="preserve">
+    <value>La description</value>
+  </data>
+  <data name="Dashboard_New_Prefix" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="Dashboard_Open_Prefix" xml:space="preserve">
+    <value>Open</value>
   </data>
   <data name="MainMenu_Edit" xml:space="preserve">
     <value>Editer</value>
@@ -245,6 +260,12 @@
   </data>
   <data name="SubMenu_File_Open" xml:space="preserve">
     <value>Ouvrir...</value>
+  </data>
+  <data name="SubMenu_File_Quit" xml:space="preserve">
+    <value>Quitter</value>
+  </data>
+  <data name="SubMenu_File_Exit" xml:space="preserve">
+    <value>Sortir</value>
   </data>
   <data name="SubMenu_Help_Community" xml:space="preserve">
     <value>Community</value>
@@ -360,6 +381,15 @@
   <data name="SubMenu_Window_KeepWindowOnTop" xml:space="preserve">
     <value>Garder la fenêtre au dessus</value>
   </data>
+  <data name="SubMenu_Window_Language" xml:space="preserve">
+    <value>Langue</value>
+  </data>
+  <data name="SubMenu_Window_LightTheme" xml:space="preserve">
+    <value>Thème lumière</value>
+  </data>
+  <data name="SubMenu_Window_DarkTheme" xml:space="preserve">
+    <value>Thème sombre</value>
+  </data>
   <data name="Button_Ok" xml:space="preserve">
     <value>OK</value>
   </data>
@@ -405,13 +435,10 @@
   <data name="Label_MacOnly" xml:space="preserve">
     <value>Mac uniquement</value>
   </data>
-  <data name="LicenseUpdated_Text" xml:space="preserve">
-    <value>Votre licence a été mise à jour.
+  <data name="LanguageUpdated_Text" xml:space="preserve">
+    <value>Votre préférence linguistique a été mise à jour.
 
-La nouvelle licence entrera pleinement en vigueur la prochaine fois que vous ouvrirez un projet.</value>
-  </data>
-  <data name="LicenseUpdated_Question" xml:space="preserve">
-    <value>Voulez-vous redémarrer fuse X maintenant ?</value>
+La nouvelle langue entrera pleinement en vigueur la prochaine fois que vous démarrerez fuse X.</value>
   </data>
   <data name="NagScreen_Caption" xml:space="preserve">
     <value>Ceci est une copie non enregistrée</value>
@@ -421,7 +448,7 @@ La nouvelle licence entrera pleinement en vigueur la prochaine fois que vous ouv
 
 L'activation est nécessaire pour utiliser ce logiciel.
 
-Essai gratuit disponible :
+Essai gratuit disponible :
 • Essayez tout ce que fuse X a à offrir pendant un mois.
 • Pas de carte de crédit nécessaire.</value>
   </data>
