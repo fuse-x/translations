@@ -133,7 +133,7 @@
     <value>Ouvrir</value>
   </data>
   <data name="Dashboard_Community" xml:space="preserve">
-    <value>Community</value>
+    <value>Communauté</value>
   </data>
   <data name="Dashboard_Community_Text1" xml:space="preserve">
     <value>Vous avez fait quelque chose de cool? Joignez-vous à un</value>
@@ -253,7 +253,7 @@
     <value>Exporter pour le Bureau (natif)</value>
   </data>
   <data name="SubMenu_Export_Clean" xml:space="preserve">
-    <value>Clean build files</value>
+    <value>Nettoyer les fichiers de compilation</value>
   </data>
   <data name="SubMenu_File_New" xml:space="preserve">
     <value>Nouveau...</value>
@@ -268,7 +268,7 @@
     <value>Sortir</value>
   </data>
   <data name="SubMenu_Help_Community" xml:space="preserve">
-    <value>Community</value>
+    <value>Communauté</value>
   </data>
   <data name="SubMenu_Help_Documentation" xml:space="preserve">
     <value>Documentation</value>
